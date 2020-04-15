@@ -1,0 +1,10 @@
+C:\Users\Notch\source\repos\Simplecalculator\Simplecalculator\bin\Debug\Simplecalculator.exe.config
+C:\Users\Notch\source\repos\Simplecalculator\Simplecalculator\bin\Debug\Simplecalculator.exe
+C:\Users\Notch\source\repos\Simplecalculator\Simplecalculator\bin\Debug\Simplecalculator.pdb
+C:\Users\Notch\source\repos\Simplecalculator\Simplecalculator\obj\Debug\Simplecalculator.csprojAssemblyReference.cache
+C:\Users\Notch\source\repos\Simplecalculator\Simplecalculator\obj\Debug\Simplecalculator.Form.resources
+C:\Users\Notch\source\repos\Simplecalculator\Simplecalculator\obj\Debug\Simplecalculator.Properties.Resources.resources
+C:\Users\Notch\source\repos\Simplecalculator\Simplecalculator\obj\Debug\Simplecalculator.csproj.GenerateResource.cache
+C:\Users\Notch\source\repos\Simplecalculator\Simplecalculator\obj\Debug\Simplecalculator.csproj.CoreCompileInputs.cache
+C:\Users\Notch\source\repos\Simplecalculator\Simplecalculator\obj\Debug\Simplecalculator.exe
+C:\Users\Notch\source\repos\Simplecalculator\Simplecalculator\obj\Debug\Simplecalculator.pdb
